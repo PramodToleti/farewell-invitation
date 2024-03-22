@@ -182,12 +182,20 @@ strong {
 }
 
 @media screen and (max-width: 600px) {
+  .clg-up {
+    margin-bottom: 250px !important;
+  }
+
+  .clg-down {
+    margin-top: 250px !important;
+  }
+
   .excited-txt {
-	margin-bottom: 350px !important;
+    margin-bottom: 350px !important;
   }
 
   .excited-below {
-	margin-top: 100px !important;
+    margin-top: 200px !important;
   }
 }
 
@@ -396,7 +404,7 @@ body #cdawrap {
 
 @media screen and (max-width: 600px) {
   .intro__title-pre {
-	font-size: 70px !important;
+    font-size: 70px !important;
   }
 }
 
